@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.accenture.features.search.IniciarSesion
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 12.609 sec <<< FAILURE! - in com.accenture.features.search.IniciarSesion
+com.accenture.features.search.IniciarSesion  Time elapsed: 2.843 sec  <<< ERROR!
+net.serenitybdd.core.exceptions.StepInitialisationException: Failed to create step library for Pasos:java.util.MissingResourceException-->Can't find bundle for base name com/accenture/tasks/config, locale en_US
+Caused by: net.sf.cglib.core.CodeGenerationException: java.util.MissingResourceException-->Can't find bundle for base name com/accenture/tasks/config, locale en_US
+Caused by: java.util.MissingResourceException: Can't find bundle for base name com/accenture/tasks/config, locale en_US
+

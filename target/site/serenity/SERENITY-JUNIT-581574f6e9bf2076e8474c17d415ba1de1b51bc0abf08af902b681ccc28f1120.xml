@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.accenture.features.search.IniciarSesion" skipped="0" tests="1" time="0.0" timestamp="2018-07-13T20:02:19.966-05:00[America/Bogota]"><testcase classname="com.accenture.features.search.IniciarSesion" name="Initialisation"><error message="java.util.MissingResourceException--&gt;Can't find bundle for base name com/accenture/tasks/config, locale en_US" type="net.sf.cglib.core.CodeGenerationException">java.util.MissingResourceException--&gt;Can't find bundle for base name com/accenture/tasks/config, locale en_US</error><system-err>java.util.MissingResourceException--&gt;Can't find bundle for base name com/accenture/tasks/config, locale en_US&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)&#13;
+</system-err></testcase></testsuite>
